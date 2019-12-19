@@ -15,8 +15,8 @@ tests:
   lab-master-vpc:
     parameters:
       AvailabilityZones: $[taskcat_getaz_2]
-      EmailAddress: email@yourdomain.com
-      KeyPairName: YOUR-KEYPAIR-HERE
+      EmailAddress: russomi@russomi.com
+      KeyPairName: taskcat-keypair
       QSS3BucketName: $[taskcat_autobucket]
       QSS3KeyPrefix: qs-workshop/
       RemoteAccessCIDR: 0.0.0.0/0
