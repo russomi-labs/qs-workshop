@@ -25,5 +25,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## Links
+
+https://aws-quickstart.s3.amazonaws.com/quickstart-taskcat-ci/templates/taskcat-ci-pipeline.template
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
